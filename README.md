@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Anna Maltseva 👋
 
-<!--
-**SeleAnnaM/SeleAnnaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m currently a student at Arizona State University, studying Graphic Information Technology (User Experience) (BS). I love building sleek, responsive web pages and learning new front-end and design techniques. After graduation, I hope to work as a UX/UI designer at a design-forward tech company.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 About Me
+- 🎓 **Education:** Pursuing a Graphic Information Technology (User Experience) (BS) at ASU  
+- 🚀 **Goals:**  
+  - Master modern JavaScript frameworks (React, Vue)  
+  - Create accessible, semantic websites that follow best practices  
+  - Build a professional web portfolio showcasing interactive design  
+- 🤖 **Technical Skills:**  
+  - **Languages:** HTML5, CSS3 (Sass), JavaScript 
+  - **Frameworks & Libraries:** React, Tailwind CSS  
+  - **Tools & Platforms:** Git, GitHub, VS Code, Figma 
+  - **Other:** Responsive / Mobile-First Design, Semantic HTML, SEO basics  
+- 🎨 **Hobbies & Interests:**  
+  - Sketching UI mockups and creating vector illustrations   
+
+---
+
+## 🌐 Connect with Me
+- 🔗 **Instagram:** [@seleanna_design](https://www.instagram.com/seleanna_design/)
+
+- [Anna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleAnnaM&show_icons=true&theme=dracula)
 -->
