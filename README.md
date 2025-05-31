@@ -24,4 +24,3 @@ Welcome to my GitHub profile! I’m currently a student at Arizona State Univers
 - 🔗 **Instagram:** [@seleanna_design](https://www.instagram.com/seleanna_design/)
 
 - [Anna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleAnnaM&show_icons=true&theme=dracula)
--->
